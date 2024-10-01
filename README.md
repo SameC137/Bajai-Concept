@@ -58,7 +58,7 @@ Concept site that I built for a manufacturing company using threejs and gsap. Th
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![Bajai Website Preview](https://github.com//SameC137/blob/master/images/bajai_example.png?raw=true)
+![Bajai Website Preview](images/bajai_example.png)
 
 
 
