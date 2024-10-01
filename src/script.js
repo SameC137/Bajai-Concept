@@ -269,7 +269,7 @@ gsap.to( bluePrintMaterial,{scrollTrigger:{trigger:"#second",scrub:true,start:'t
 
 gsap.to( bluePrintMaterial,{scrollTrigger:{trigger:"#third",scrub:true,start:'top bottom-=300',end:'top center'},opacity:0})
 
-gsap.to(bluePrintMaterial,{scrollTrigger:{trigger:".third",scrub:true,start:'top bottom-=300',end:'top bottom-=300',markers:true},transparent:true,})
+gsap.to(bluePrintMaterial,{scrollTrigger:{trigger:".third",scrub:true,start:'top bottom-=300',end:'top bottom-=300'},transparent:true,})
 
 
 
